@@ -1,5 +1,4 @@
 p = nil
-SetNuiFocus(false, false)
 
 RegisterCommand('nui', function()
     SetNuiFocus(true, true)
